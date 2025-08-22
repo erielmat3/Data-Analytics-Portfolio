@@ -21,12 +21,10 @@ Below are some of the projects I've done to demonstrate my skills related to dat
 - [Project 2: Wine Classification](#project-2-wine-classification)
 - [Project 3: Maven Fuzzy Factory](#project-3-maven-fuzzy-factory)
 
-### Project 1: Automotive Sales Forecasting
-**Code:** [`Automotive Sales Forecasting.ipynb`](./Automotive%20Sales%20Forecasting%20using%20Hybrid%20Model%20(Holt-Winters%20+%20Random%20Forest)/Automotive%20Sales%20Forecasting.ipynb)
+## [Project 1: Automotive Sales Forecasting](./Automotive%20Sales%20Forecasting%20using%20Hybrid%20Model%20(Holt-Winters%20+%20Random%20Forest))
+This project was part of my undergraduate thesis related to demand forecasting. In this project, a hybrid forecasting model, consisting of a time-series and a machine learning model, was constructed to forecast monthly sales of an automotive product. The dataset used to build the model consists of 2 macroeconomic variables, 5 online searches variables, and 1 target variable, which is the monthly sales of the corresponding product itself. The analytical processes involved in this project are data collection, data exploratory, data cleaning, model training, hyperparameter tuning, model evaluation, and forecasting.
 
-**Goal:** To build a sales forecasting model as a basis for setting monthly sales targets.
 
-**Description:**
 
 ### Project 2: Wine Classification
 
