@@ -33,4 +33,4 @@ This project was part of my undergraduate thesis related to demand forecasting. 
 The result of this project was a hybrid forecast model that is able to enhance the in-sample and out-of-sample performance by 42.9% and 13.2%, respectively, compared to the standalone Holt-Winters' model, while maintaining an 83.43% higher generalization ability.
 
 ## Project 3: Maven Fuzzy Factory
-
+### 
