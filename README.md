@@ -22,7 +22,7 @@ Below are some of the projects I've done to demonstrate my skills related to dat
 - [Project 3: Maven Fuzzy Factory](#project-3-maven-fuzzy-factory)
 
 ### Project 1: Automotive Sales Forecasting
-**Code:** [`Automotive Sales Forecasting.ipynb`](./Automotive%20Sales%20Forecasting.ipynb)
+**Code:** [`Automotive Sales Forecasting.ipynb`](./Automotive%20Sales%20Forecasting%20using%20Hybrid%20Model%20(Holt-Winters%20+%20Random%20Forest)/Automotive%20Sales%20Forecasting.ipynb)
 
 **Goal:** To build a sales forecasting model as a basis for setting monthly sales targets.
 
