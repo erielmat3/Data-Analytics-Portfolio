@@ -1,4 +1,6 @@
 # Automotive Sales Forecasting
+**Code:** [Automotive Sales Forecasting.ipynb](./Automotive Sales Forecasting using Hybrid Model (Holt-Winters + Random Forest)/Automotive Sales Forecasting.ipynb)
+
 The objective of this project was to build a sales forecasting model to predict the monthly demand of a Multi-Purpose Vehicle Product at a dealership in Malang City, Indonesia, in order to address the **issue of underachieving** monthly sales target caused by **unrealistic goal-setting** that did not take market dynamics and macroeconomic factors into account. Sales forecasting can assist stakeholders in gaining insights into realistic sales projections, serving as a basis for setting sales targets.
 
 To maintain data confidentiality, the product name is referred to as Product X, the dealership as Dealer U, and the company as Company Z.
@@ -7,6 +9,7 @@ To maintain data confidentiality, the product name is referred to as Product X, 
 - Period: Jan 2014 - Feb 2025 (134 datapoints)
 - Variables: Month, Macroeconomic factors (Inflation Rate, CPI), Online search data from Google Trends (related to Product X, price of Product X, and Company Z)
 - Size: 134 rows x 9 columns
+
 **The original dataset used in this project is not included here to maintain data confidentiality**
 
 ## Tools & Libraries
