@@ -19,7 +19,7 @@ Below are some of the projects I've done to demonstrate my skills related to dat
 ## Table of Contents
 - [Project 1: Wine Classification](#project-1-wine-classification)
 - [Project 2: Automotive Sales Forecasting](#project-2-automotive-sales-forecasting)
-- [Project 3: Maven Fuzzy Factory](#project-3-maven-fuzzy-factory)
+- [Project 3: E-commerce Website Analysis](#project-3-e-commerce-website-analysis)
 
 ## [Project 1: Wine Classification](./Wine%20Classification%20with%20K-Nearest%20Neighbors)
 The purpose of this project was to construct a machine learning clasifier for 3 different wine types based on its constituents. The dataset used in this project was obtained from the UC Irvine Machine Learning Repository, which contains 13 different features and 1 target variables, with 178 data points.
@@ -31,7 +31,7 @@ This project was part of my undergraduate thesis related to demand forecasting. 
 
 The result of this project was a hybrid forecast model that is able to enhance the in-sample and out-of-sample performance by 42.9% and 13.2%, respectively, compared to the standalone Holt-Winters' model, while maintaining an 83.43% higher generalization ability.
 
-## Project 3: Maven Fuzzy Factory
+## Project 3: E-commerce Website Analysis
 
 
 ## Contacts
