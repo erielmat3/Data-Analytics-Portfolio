@@ -12,4 +12,4 @@ This project was carried out based on an e-commerce case study from a fictitious
 - PostgreSQL 17
 
 ## Datasets
-The datasets used for this website is confidential and cannot be shared to the public.
+The datasets used for this project is confidential and cannot be shared to the public.
