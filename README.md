@@ -19,6 +19,7 @@ Below are some of the projects I've done to demonstrate my skills related to dat
 ## Table of Contents
 - Project 1: Automotive Sales Forecasting
   - Tools
+    - Library
 - Project 2: Wine Classification
 - Project 3: Maven Fuzzy Factory
 
