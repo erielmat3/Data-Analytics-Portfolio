@@ -36,4 +36,4 @@ The result of this project was a hybrid forecast model that is able to enhance t
 
 ## Contacts
 - **LinkedIn:** [Eriel Matthew](https://www.linkedin.com/in/erielmatthew03/)
-- **E-mail:** [erielmatthew03@gmail.com](mailto:erielmatthew03@gmail.com?subject=Collaboration%20Opportunity&body=Hi%20Eriel,)
+- **E-mail:** [erielmatthew03@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=erielmatthew03@gmail.com&su=Collaboration%20Opportunity&body=Hi%20Eriel,)
