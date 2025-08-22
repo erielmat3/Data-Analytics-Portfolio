@@ -18,8 +18,8 @@ Below are some of the projects I've done to demonstrate my skills related to dat
 
 ## Table of Contents
 - [Project 1: Automotive Sales Forecasting](#project-1-automotive-sales-forecasting)
-- Project 2: Wine Classification
-- Project 3: Maven Fuzzy Factory
+- [Project 2: Wine Classification](#project-2-wine-classification)
+- [Project 3: Maven Fuzzy Factory](#project-3-maven-fuzzy-factory)
 
 ### Project 1: Automotive Sales Forecasting
 
