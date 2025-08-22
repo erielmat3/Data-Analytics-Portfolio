@@ -14,7 +14,13 @@ I am skilled in:
 
 I enjoy exploring new datasets to hone my data analysis skills further, and am always open for opportunities in **data analytics and business intelligence field**, where I can apply my skills to generate real business value. 
 
-## 📂 Projects
+Below are some of the projects I've done to demonstrate my skills related to data analytics.
+
+## Table of Contents
+- Project 1: Automotive Sales Forecasting
+  - Tools
+- Project 2: Wine Classification
+- Project 3: Maven Fuzzy Factory
 
 ### Project 1: Automotive Sales Forecasting
 
