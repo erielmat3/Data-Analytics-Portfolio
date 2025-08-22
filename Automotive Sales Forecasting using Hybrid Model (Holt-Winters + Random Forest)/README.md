@@ -1,5 +1,5 @@
 # Automotive Sales Forecasting
-**Code:** [Automotive Sales Forecasting.ipynb](./Data-Analytics-Portfolio/Automotive Sales Forecasting using Hybrid Model (Holt-Winters + Random Forest)/Automotive Sales Forecasting.ipynb)
+**Code:** [Automotive Sales Forecasting.ipynb](https://github.com/erielmat3/Data-Analytics-Portfolio/blob/main/Automotive%20Sales%20Forecasting%20using%20Hybrid%20Model%20(Holt-Winters%20%2B%20Random%20Forest)/Automotive%20Sales%20Forecasting.ipynb)
 
 The objective of this project was to build a sales forecasting model to predict the monthly demand of a Multi-Purpose Vehicle Product at a dealership in Malang City, Indonesia, in order to address the **issue of underachieving** monthly sales target caused by **unrealistic goal-setting** that did not take market dynamics and macroeconomic factors into account. Sales forecasting can assist stakeholders in gaining insights into realistic sales projections, serving as a basis for setting sales targets.
 
