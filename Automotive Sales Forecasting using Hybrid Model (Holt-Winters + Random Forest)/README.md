@@ -10,7 +10,7 @@ To maintain data confidentiality, the product name is referred to as Product X, 
 - Variables: Month, Macroeconomic factors (Inflation Rate, CPI), Online search data from Google Trends (related to Product X, price of Product X, and Company Z)
 - Size: 134 rows x 9 columns
 
-**The original dataset used in this project is not included here to maintain data confidentiality**
+**The original dataset used in this project is not included here to maintain data confidentiality.**
 
 ## Tools & Libraries
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, pmdarima, Scikit-learn)
