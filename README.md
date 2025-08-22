@@ -31,8 +31,8 @@ This project was part of my undergraduate thesis related to demand forecasting. 
 
 The result of this project was a hybrid forecast model that is able to enhance the in-sample and out-of-sample performance by 42.9% and 13.2%, respectively, compared to the standalone Holt-Winters' model, while maintaining an 83.43% higher generalization ability.
 
-## Project 3: E-commerce Website Analysis
-
+## [Project 3: E-Commerce Website Analysis](./SQL%20Project%20E-commerce%20Website%20Analysis)
+This project was part of the SQL learning material I completed in a data analytics course. It contains an analysis of the database of an e-commerce website established by a fictitious company. The database consisted of six tables: website_sessions, website_pageviews, orders, order_items, order_item_refunds, and products. The analysis was conducted using PostgreSQL software.
 
 ## Contacts
 - **LinkedIn:** [Eriel Matthew](https://www.linkedin.com/in/erielmatthew03/)
