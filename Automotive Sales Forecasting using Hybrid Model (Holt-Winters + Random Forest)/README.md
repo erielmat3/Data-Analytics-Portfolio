@@ -30,3 +30,5 @@ The application of a hybrid model was able to improve the forecasting result by 
 
 ## Conclusion
 By using a comprehensive forecasting model, the corresponding dealership is now able to set realistic sales targets that take into account real market dynamics.
+
+A more detailed explanation of this project can be found in the following file: [`Automotive Sales Forecasting`](./Automotive%20Sales%20Forecasting%20using%20Hybrid%20Model%20(Holt-Winters%20+%20Random%20Forest).pdf)
