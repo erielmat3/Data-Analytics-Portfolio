@@ -26,7 +26,7 @@ To maintain data confidentiality, the product name is referred to as Product X, 
 7. 2025 Monthly Sales Forecasting (Mar 2025 - Dec 2025)
 
 ## Result
-The application of a hybrid model was able to improve the forecasting result by reducing the in-sample dan out-of-sample **performance gap by 83.43%*, indicating a better generalization ability**. In addition, this hybrid model also enhanced the in-sample and out-of-sample performance **by 42.9% and 13.2%**, respectively. **These comparisons were made between the hybrid model and the standalone Holt-Winters' model.**
+The application of a hybrid model was able to improve the forecasting result by reducing the in-sample dan out-of-sample **performance gap by 83.43%, indicating a better generalization ability**. In addition, this hybrid model also enhanced the in-sample and out-of-sample performance **by 42.9% and 13.2%**, respectively. **These comparisons were made between the hybrid model and the standalone Holt-Winters' model.**
 
 ## Conclusion
 By using a comprehensive forecasting model, the corresponding dealership is now able to set realistic sales targets that take into account real market dynamics.
