@@ -17,7 +17,7 @@ I enjoy exploring new datasets to hone my data analysis skills further, and am a
 Below are some of the projects I've done to demonstrate my skills related to data analytics.
 
 ## Table of Contents
-- [Project 1: Automotive Sales Forecasting](###project-1:-automotive-sales-forecasting)
+- [Project 1: Automotive Sales Forecasting](#project-1-automotive-sales-forecasting)
 - Project 2: Wine Classification
 - Project 3: Maven Fuzzy Factory
 
