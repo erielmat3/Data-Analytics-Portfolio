@@ -7,3 +7,7 @@ This project was carried out based on an e-commerce case study from a fictitious
 - order_items
 - order_item_refunds
 - product
+
+## Tools
+- PostgreSQL 17
+
