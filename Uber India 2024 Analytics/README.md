@@ -1,7 +1,9 @@
 # Uber India 2024 Analytics
 
 **Code:** [`Uber India 2024 Analytics (Python).ipynb`](./Uber%20India%202024%20Analytics%20(Python).ipynb)
+
 **Interactive Dashboard File (Tableau):** [`Uber India 2024 Analytics.twbx`](./Uber%20India%202024%20Analytics.twbx)
+
 **Dashboard Example (Static):** [`Uber India 2024 Dashboard (Operations).png`](./Uber%20India%202024%20Dashboard%20(Operations).png)
 
 ## Overview
@@ -39,3 +41,4 @@ The dataset used in this project was retrieved from Kaggle, which can be found h
 - **Improve driver quality & unit availability** for these 3 services, and **offer vouchers or discounts** to maintain large market share.
 
 You can check the interactive dashboard in the .twbx file provided, or in this [Tableau Public Link](https://public.tableau.com/views/UberIndia2024Analytics/Operations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
