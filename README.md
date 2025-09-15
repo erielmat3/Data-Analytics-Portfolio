@@ -20,6 +20,7 @@ Below are some of the projects I've done to demonstrate my skills related to dat
 - [Project 1: Wine Classification](#project-1-wine-classification)
 - [Project 2: Automotive Sales Forecasting](#project-2-automotive-sales-forecasting)
 - [Project 3: E-Commerce Website Analysis](#project-3-e-commerce-website-analysis)
+- [Project 4: Uber India 2024 Analytics](#project-4-uber-india-2024-analytics)
 
 ## [Project 1: Wine Classification](./Wine%20Classification%20with%20K-Nearest%20Neighbors)
 The purpose of this project was to construct a machine learning clasifier for 3 different wine types based on its constituents. The dataset used in this project was obtained from the UC Irvine Machine Learning Repository, which contains 13 different features and 1 target variables, with 178 data points.
@@ -33,6 +34,9 @@ The result of this project was a hybrid forecast model that is able to enhance t
 
 ## [Project 3: E-Commerce Website Analysis](./SQL%20Project%20E-commerce%20Website%20Analysis)
 This project was part of the SQL learning material I completed in a data analytics course. It contains an analysis of the database of an e-commerce website established by a fictitious company. The database consisted of six tables: website_sessions, website_pageviews, orders, order_items, order_item_refunds, and products. The analysis was conducted using PostgreSQL software.
+
+## [Project 4: Uber India 2024 Analytics](./Uber%20India%202024%20Analytics)
+This project was an attempt to analyze Uber's performance in India in 2024. The dataset used for this project was retrieved from Kaggle, consisting of 150.000 datapoints and 21 columns. A dashboard was also created to observe and generate insights about Uber's performance in 2024. Some key takeaways and business recommendations were made to further improve Uber's performance in the long run.
 
 ## Contacts
 - **LinkedIn:** [Eriel Matthew](https://www.linkedin.com/in/erielmatthew03/)
